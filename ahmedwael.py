@@ -1,2 +1,2 @@
 print('ahmed wael')
-print('age : 20')
+print('20')
